@@ -1,0 +1,6 @@
+c:\users\subhechha\documents\visual studio 2017\Projects\CardWarGame\CardWarGame\bin\Debug\CardWarGame.exe.config
+c:\users\subhechha\documents\visual studio 2017\Projects\CardWarGame\CardWarGame\bin\Debug\CardWarGame.exe
+c:\users\subhechha\documents\visual studio 2017\Projects\CardWarGame\CardWarGame\bin\Debug\CardWarGame.pdb
+c:\users\subhechha\documents\visual studio 2017\Projects\CardWarGame\CardWarGame\obj\Debug\CardWarGame.csprojResolveAssemblyReference.cache
+c:\users\subhechha\documents\visual studio 2017\Projects\CardWarGame\CardWarGame\obj\Debug\CardWarGame.exe
+c:\users\subhechha\documents\visual studio 2017\Projects\CardWarGame\CardWarGame\obj\Debug\CardWarGame.pdb
